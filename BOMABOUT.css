@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(PZEG6850.JPG);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    
+}
+
+li{
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+    word-spacing: 20px;
+}
+.a{
+    color: blue;
+}
+
